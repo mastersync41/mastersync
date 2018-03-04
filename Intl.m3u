@@ -1,15 +1,4 @@
 #EXTM3U
-http://portal.geniptv.com:8080/get.php?username=amiri&password=amiri&type=m3u
-http://mypanel.tv:8080/get.php?username=Hakan&password=Simsek&type=m3u
-http://fullpremiumvip.com:8000/get.php?username=adrian&password=adrian1&type=m3u
-http://163.172.62.63:8000/get.php?username=Bhakjd&password=515533&type=m3u
-http://ace-tv.xyz:8080/get.php?username=RobertEvans&password=RobertEvans&type=m3u
-http://clientportalpro.com:2500/get.php?username=sKaK8wYpjD&password=DkMUUIp7m7&type=m3u
-http://showsat.hopto.me:9000/get.php?username=mgcam-eslam-shady&password=beinsport&type=m3u
-http://cinevip.cineiptv.com:25461/get.php?username=Bianca&password=12345&type=m3u
-http://87.98.157.142:80/get.php?username=MagSat&password=WoodyAllen&type=m3u
-http://163.172.90.27:80/playlist?type=m3u&deviceMac=00:1A:79:29:55:11
-http://193.200.164.137:8080/get.php?username=amiri&password=amiri&type=m3u
 
 #EXTINF:0,*******SKY UK*******
 http://ip.cs4ip.com:8000/live/7200956003539844/7200956003539844/5966.ts
